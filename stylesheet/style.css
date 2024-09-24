@@ -178,6 +178,9 @@ h1{
     width: 50%;
     padding: 4rem;  
 }
+.points-cont h1{
+    color: var(--darkgreen);
+}
 .points-cont p{
     width: 80%;
     margin: 1rem 0;
@@ -320,9 +323,11 @@ footer{
     
     .universe-man{
         background-image: url(/Assets/Mask\ Group\ 23.png);
-        width: 40%;
+        width: 100%;
+        height: 50vh;
         background-repeat: no-repeat;
-        background-size: contain;
+        background-position: center;
+
         
     }
     .coletion-cont{
@@ -334,13 +339,55 @@ footer{
     .coletion-cont h1{
         width: 100%;
         font-weight: 800;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .coletion-cont p{
         width: 100%;
-        box-sizing: border-box;
         padding: 1rem 0;
+        
+    }
+    .points{
+        background-image: url(/Assets/Group\ 2805.png);
+        width: 100%;
+        height: 50vh;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .points-cont{
+        width: 100%;
+        padding: 1rem;  
+    }
+    .points-cont h1{
+        font-size: 1.2rem;
+        color: var(--darkgreen);
+    }
+    .points-cont p{
+        width: 100%;
+        margin: 1rem 0;
+    }
+    .roadmap{
+        background-image: url(/Assets/Group\ 2806.png);
+        text-align: center;
         color: white;
+        padding: 4rem;
+    }
+    
+    .roadmap-cont{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .roadmap-cont h1{
+        color: var(--darkgreen);
+    }
+    .roadmap-cont p{
+        width: 36%;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .container{
+        margin: 0;
     }
    
 
