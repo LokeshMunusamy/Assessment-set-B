@@ -63,7 +63,7 @@ h1{
     gap: 5%;   
 }
 .welcom-page{
-    background-image: url(../Assets/Repeat\ Grid\ 1.png);
+    background-image: url(Assets/Repeat\ Grid\ 1.png);
     background-color: #0E97D9;
     text-align: center;
     color: white;
@@ -107,7 +107,7 @@ h1{
     margin: 0 2%;
 }
 .promo{
-    background-image: url(../Assets/Group\ 2803.png);
+    background-image: url(Assets/Group\ 2803.png);
     display: flex;
 }
 .promo-cont{
@@ -143,12 +143,12 @@ h1{
 .colletion-page{
     display: flex;
     justify-content: space-evenly;
-    background-image: url(../Assets/Group\ 2804.png);
+    background-image: url(Assets/Group\ 2804.png);
     padding: 1.5rem;
 }
 
 .universe-man{
-    background-image: url(../Assets/Mask\ Group\ 23.png);
+    background-image: url(Assets/Mask\ Group\ 23.png);
     width: 40%;
     background-repeat: no-repeat;
     background-size: contain;
@@ -172,7 +172,7 @@ h1{
     color: white;
 }
 .points{
-    background-image: url(../Assets/Group\ 2805.png);
+    background-image: url(Assets/Group\ 2805.png);
 }
 .points-cont{
     width: 50%;
@@ -186,7 +186,7 @@ h1{
     margin: 1rem 0;
 }
 .roadmap{
-    background-image: url(../Assets/Group\ 2806.png);
+    background-image: url(Assets/Group\ 2806.png);
     text-align: center;
     color: white;
     padding: 4rem;
@@ -235,7 +235,7 @@ h1{
     margin: 1.5rem;
 }
 footer{
-    background-image: url(../Assets/Group\ 2807.png);
+    background-image: url(Assets/Group\ 2807.png);
     display: flex;
     justify-content: space-around;
     color: white;
